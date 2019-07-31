@@ -1,0 +1,101 @@
+<application>
+  <component name="libraryTable">
+    <library name="安硕lib">
+      <CLASSES>
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/AmarOTI-1.1.1_g.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/amqp-client-3.2.2.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/ant.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/AnySignClient.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/are-1.0b89-m1_g.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/ars3-1.0.11.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/avalon-framework-4.2.0.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/awe-2.6-b99-rc1_g.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/axis-jaxrpc-1.4.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/axis.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/barcode4j.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/bcprov-ext-jdk15-146.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/BJCA_LOG.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/BJCANetCoreClient.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/commons-beanutils-1.9.2.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/commons-cli-1.0.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/commons-codec-1.4.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/commons-dbcp-1.2.2.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/commons-discovery-0.2.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/commons-httpclient-3.1.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/commons-lang-2.4.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/commons-lang3-3.3.2.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/commons-logging.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/commons-net-1.4.1.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/commons-pool-1.3.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/commons-validator-1.3.1.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/commons.collections-3.2.1.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/core-renderer.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/cts-openapi-sdk-2.0.0-SNAPSHOT.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/dom4j-1.6.1.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/edoc1.0.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/ezmorph-1.0.6.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/fastjson-1.2.7.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/flowgraph.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/geronimo-stax-api_1.0_spec-1.0.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/httpclient-4.5.1.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/httpcore-4.4.3.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/iText-2.0.8.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/jacob.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/jakarta-oro-2.0.8.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/jaxen-core.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/jaxen-jdom.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/jbpm.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/jcommon-1.0.13.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/jdom.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/jfreechart-1.0.10.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/json-lib-2.4-jdk15.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/jsr94.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/jstl-1.2.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/jtidy-r938.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/jxl.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/log4j-1.2.8.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/logback-classic-1.1.11.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/logback-core-1.1.11.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/ojdbc14.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/ojdbc14_g.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/ojdbc6.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/ojdbc6_g.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/ooxml-schemas-1.0.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/opencsv-2.3.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/openxml4j-bin-beta.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/pd4ml.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/pinyin4j-2.5.1.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/platform.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/poi-3.5-FINAL-20090928.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/poi-contrib-3.5-FINAL-20090928.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/poi-ooxml-3.5-FINAL-20090928.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/poi-scratchpad-3.5-FINAL-20090928.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/reserve-0.2alpha.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/saaj.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/saxpath.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/slf4j-api-1.7.25.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/ss_css2.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/standard-1.1.2.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/wsdl4j.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/xmlbeans-2.3.0.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/xom-1.1.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/xstream-1.3.1.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/optional/ASTaskScheduler.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/compileOnlyLib/jaxrpc.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/compileOnlyLib/platform.jar!/" />
+        <root url="jar://D:/apache-tomcat-7.0.72/lib/servlet-api.jar!/" />
+        <root url="jar://D:/apache-tomcat-7.0.72/lib/jsp-api.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/okhttp-3.0.1.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/okio-1.6.0.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/itextpdf-5.5.11.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/xmlworker-5.5.11.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/freemarker-2.3.28.jar!/" />
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/spring-core-4.1.6.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://E:/ideaProject/CAR/bqjrcar/WebRoot/WEB-INF/lib/cts-openapi-sdk-2.0.0-SNAPSHOT-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

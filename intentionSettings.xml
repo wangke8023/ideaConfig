@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="Database/Run query in console" />
+    <ignoreAction name="Java/Other/Merge Sequential Method Calls into Call Chain" />
+    <ignoreAction name="XML/Convert text to CData" />
+  </component>
+</application>
