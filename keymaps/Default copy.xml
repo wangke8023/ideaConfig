@@ -5,11 +5,6 @@
   <action id="ActivateRunDashboardToolWindow">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
-  <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="alt 9" />
-    <keyboard-shortcut first-keystroke="shift alt 9" />
-    <keyboard-shortcut first-keystroke="alt f2" />
-  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl numpad1" />
   </action>
