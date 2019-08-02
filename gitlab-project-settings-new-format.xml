@@ -1,0 +1,29 @@
+<application>
+  <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.81.2.223/car/cls.git" />
+          <option name="name" value="cls" />
+          <option name="namespace" value="car" />
+          <option name="sshUrl" value="git@10.81.2.223:car/cls.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.81.2.223/car/cls_web.git" />
+          <option name="name" value="cls_web" />
+          <option name="namespace" value="car" />
+          <option name="sshUrl" value="git@10.81.2.223:car/cls_web.git" />
+        </ProjectDto>
+      </list>
+    </option>
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="QZPrRy_uQNic8HKveWzd" />
+          <option name="apiUrl" value="http://10.81.2.223" />
+          <option name="repositoryUrl" value="http://10.81.2.223/car/cls/tree/master/cls-parent" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
