@@ -57,7 +57,7 @@
     <option name="phoneticFontFamily" value="SimHei" />
     <option name="primaryFontFamily" value="SimHei" />
     <option name="separators" value="_- ." />
-    <option name="translator" value="fanyi.baidu" />
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2d56f5c44645c4df" />
