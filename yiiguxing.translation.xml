@@ -58,6 +58,7 @@
     <option name="primaryFontFamily" value="SimHei" />
     <option name="separators" value="_- ." />
     <option name="targetLanguageSelection" value="LAST" />
+    <option name="translator" value="fanyi.baidu" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="2d56f5c44645c4df" />
