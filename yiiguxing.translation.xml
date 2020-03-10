@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="material" />
+      <item value="materia" />
       <item value="properties" />
       <item value="directory" />
       <item value="mapping" />
@@ -49,20 +51,18 @@
       <item value="First" />
       <item value="is To Pop" />
       <item value="是否弹出问卷" />
-      <item value="is Assignable From" />
-      <item value="PROPAGATION REQUIRED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="CHINESE" value="332" />
+        <entry key="ENGLISH" value="331" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="HMONG" value="2" />
-        <entry key="PORTUGUESE" value="2" />
+        <entry key="PORTUGUESE" value="3" />
         <entry key="SWEDISH" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
