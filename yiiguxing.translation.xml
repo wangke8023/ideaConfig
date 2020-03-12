@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inquir" />
       <item value="Caused by: java.io.EOFException: Can not read response from server. Expected to read 4 bytes, read 0 bytes before connection was unexpectedly lost." />
       <item value="material" />
       <item value="materia" />
@@ -50,11 +51,10 @@
       <item value="Access" />
       <item value="pattern" />
       <item value="First" />
-      <item value="is To Pop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="333" />
+        <entry key="CHINESE" value="334" />
         <entry key="ENGLISH" value="332" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="GERMAN" value="1" />
@@ -62,7 +62,7 @@
         <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="3" />
         <entry key="HMONG" value="2" />
-        <entry key="PORTUGUESE" value="3" />
+        <entry key="PORTUGUESE" value="4" />
         <entry key="SWEDISH" value="2" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
