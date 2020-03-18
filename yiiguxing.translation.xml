@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="tbdraggable" />
       <item value="Quotation" />
+      <item value="tbdraggable" />
       <item value="inquiry" />
       <item value="计划编号" />
       <item value="导入计划明细" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="338" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
