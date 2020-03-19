@@ -7,10 +7,10 @@
     <mask>*action.java</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
-    <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
+    <mask>*.java</mask>
+    <mask>*.xml</mask>
     <mask>*js</mask>
   </component>
 </application>
