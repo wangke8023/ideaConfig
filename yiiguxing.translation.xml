@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="0 files committed, 109 files failed to commit: 采招系统部分代码 svn: E155011: Commit failed (details follow): svn: E155011: Directory '/Users/wangke/IdeaProjects/demo3' is out of date svn: E160024: The version resource does not correspond to the resource within the transaction. Either the requested version resource is out of date (needs to be updated), or the requested version resource is newer than the transaction root (restart the commit)." />
+      <item value="svn: E155011: Commit failed (details follow): svn: E155011: Directory '/Users/wangke/IdeaProjects/demo3' is out of date svn: E160024: The version resource does not correspond to the resource within the transaction. Either the requested version resource is out of date (needs to be updated), or the requested version resource is newer than the transaction root (restart the commit)." />
       <item value="Quotation" />
       <item value="tbdraggable" />
       <item value="inquiry" />
@@ -49,13 +51,11 @@
       <item value="org.hibernate.AssertionFailure: possible nonthreadsafe access to session at org.hibernate.action.EntityDeleteAction.execute(EntityDeleteAction.java:84) at org.hibernate.engine.ActionQueue.execute(ActionQueue.java:248) at org.hibernate.engine.ActionQueue.executeActions(ActionQueue.java:232) at org.hibernate.engine.ActionQueue.executeActions(ActionQueue.java:144) at org.hibernate.event.def.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:298) at org.hibernate.event.def.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:27) at org.hibernate.impl.SessionImpl.flush(SessionImpl.java:1000)" />
       <item value="org.hibernate.LazyInitializationException: failed to lazily initialize a collection of role: com.landray.kmss.sys.task.model.SysTaskMain.toSysOrgPerform, no session or session was closed at org.hibernate.collection.AbstractPersistentCollection.throwLazyInitializationException(AbstractPersistentCollection.java:373) at org.hibernate.collection.AbstractPersistentCollection.throwLazyInitializationExceptionIfNotConnected(AbstractPersistentCollection.java:365) at org.hibernate.collection.AbstractPersistentCollection.readSize(AbstractPersistentCollection.java:101) at org.hibernate.collection.PersistentBag.isEmpty(PersistentBag.java:232)" />
       <item value="an assertion failure occured (this may indicate a bug in Hibernate, but is more likely due to unsafe use of the session" />
-      <item value="possible nonthreadsafe access to session" />
-      <item value="multiselect 3" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="339" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
