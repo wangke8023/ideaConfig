@@ -1,0 +1,41 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Interactive" />
+      <item value="Exit Time Out" />
+      <item value="Launch Only Once" />
+      <item value="LaunchOnlyOnce" />
+      <item value="Run At Load" />
+      <item value="RunAtLoad" />
+      <item value="KeepAlive" />
+      <item value="bundled" />
+      <item value="JRebel is a productivity tool that allows developers to reload code changes instantly. It skips the rebuild, restart, and redeploy cycle common in Java development. JRebel enables developers to get more done in the same amount of time and stay in the flow while coding. JRebel supports a majority of real-world enterprise java stacks and is easy to install into existing development environments. XRebel is a performance tool for Java development which gives developers real time performance insights to help them understand and resolve potential issues faster and earlier, during the development phase." />
+      <item value="Synchronizes settings across all IDE installations. To sync, log in with your JetBrains Account (JBA). Settings synced are: UI and editor themes, keymaps, enabled and disabled plugins." />
+      <item value="DataGrip 2020.1 EAP Build #DB-201.6668.27, built on March 26, 2020 DataGrip EAP User Expiration date: April 25, 2020 Runtime version: 11.0.6+8-b765.17 x86_64 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o macOS 10.14.6 GC: ParNew, ConcurrentMarkSweep Memory: 1979M Cores: 12 " />
+      <item value="Provides code inspections and corresponding quick fixes for internationalization in Java source code." />
+      <item value="Enables user configurable language injection support (originally developed by Sascha Weinreuter sascha.weinreuter@cit.de) The following features are available: Language injection Pattern validation Regular expression support Language Injections page in the Settings/Preferences dialog. Ability to edit injected code in the special scratch-pad editor." />
+      <item value="A must have plugin for working with Maven. Provides: easy way for analyzing and excluding conflicting dependencies actions to run/debug maven goals for a module that contains the current file or on the root module action to open terminal at the current maven module path actions to run/debug the current test file. If maven-surefire-plugin is configured to skip or exclude the test, 'verify' goal will be used, see different configuration styles at https://github.com/harishkannarao/MavenSurefireFailsafeExamples" />
+      <item value="Grep, tail, filter, highlight... everything you need for a console. Also can highlight the editor - nice for analyzing logs... Features:" />
+      <item value="direct" />
+      <item value="extend" />
+      <item value="d" />
+      <item value="This plugin provides Maven support for Web, JavaEE and Dependency Analysis Graph. The following features are available: Show Dependencies command on the context menu of the Maven Projects tool window. Show Dependencies Popup command on the context menu of the Maven Projects tool window. WAR overlays." />
+      <item value="Extends standard .class file viewer with the Fernflower Java decompiler" />
+      <item value="Shows the bytecode of a compiled Java class file. To view the bytecode, select a class file and open View | Show Bytecode." />
+      <item value="Hibernate silently fails in certain situations, leading to bugs which are difficult to track down. This plugin helps finding and fixing some of these problems. Under Settings &gt; Inspections &gt; Hibernate inspections it adds the following inspections: Persisted class is final Final method of a persisted class uses direct field access Embeddable subclasses embeddable" />
+      <item value="Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
+      <item value="Switch easily between kebab-case, SNAKE_CASE, PascalCase, camelCase, snake_case or space case. See Edit menu or use ⇧ + ⌥ + U / Shift + Alt + U. Allows to disable some conversions or change their order in the preferences." />
+      <item value="This plugin supports the rendering of the most common ANSI graphic rendition sequences under IntelliJ editor. The following features are available: Configurable 'ANSI Aware' file extensions: Go to Preferences | Editor | File Types Under 'Recognized File Types' select 'ANSI Aware' Under 'Registered Patterns' add your custom 'ANSI Aware' file name patterns, *.log is added by default Press 'Apply' Switch between Preview and Plain mode: Right click on the editor Press 'Switch to Plain/Preview Mode' Alternatively use the shortcut 'ctrl meta A' while on the editor Only the below graphic rendition codes are supported: Reset code (0) Bold code (1) Italic code (3) Single Underline code (4) All text foreground color codes (30-37) All text background color codes (40-47) Customize ANSI colors: Go to Preferences | Editor | Colors &amp; Fonts | Console Colors Expand 'ANSI Colors' Customize the following foreground/background colors:" />
+      <item value="contract Person" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="4" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
