@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsupported Operation Exception" />
       <item value="物料" />
       <item value="model" />
       <item value="Interactive" />
@@ -33,7 +34,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
