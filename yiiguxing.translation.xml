@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hot Swap failed. Tomcat 7.0.85: add method not implemented Tomcat 7.0.85: Operation not supported by VM Stop debug session Restart debug session" />
+      <item value="16:38 Hot Swap failed. Tomcat 7.0.85: add method not implemented Tomcat 7.0.85: Operation not supported by V" />
       <item value="no exact representable decimal result" />
       <item value="Unsupported Operation Exception" />
       <item value="物料" />
@@ -34,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
