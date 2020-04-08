@@ -1,5 +1,7 @@
 <application>
   <component name="JavaRebelPlugin">
+    <option name="javaRebelPath" value="$APPLICATION_PLUGINS_DIR$/jr-ide-idea/lib/jrebel6/jrebel.jar" />
+    <option name="griffin" value="false" />
     <option name="ideInstallationStorage">
       <map>
         <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
